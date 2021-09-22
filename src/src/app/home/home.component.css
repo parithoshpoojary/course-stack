@@ -1,0 +1,12 @@
+.bg {
+  background-color: #ded8d2;
+}
+::placeholder {
+  color: #dadada;
+  font-weight: 600;
+  letter-spacing: 1.5px;
+}
+button {
+  margin: auto;
+  display: block;
+}

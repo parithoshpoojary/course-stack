@@ -1,0 +1,31 @@
+<!-- Header -->
+<header class="text-gray-600 body-font mt-5">
+    <div class="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
+        <a class="flex title-font font-medium items-center text-gray-900 mb-4 md:mb-0" [routerLink]="['/home']"
+            routerLinkActive="router-link-active">
+            <svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round"
+                stroke-linejoin="round" stroke-width="2" class="w-10 h-10 text-white p-2 bg-indigo-500 rounded-full"
+                viewBox="0 0 24 24">
+                <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"></path>
+            </svg>
+            <span class="ml-3 tracking-wider font-semibold">COURSESTACK</span>
+        </a>
+        <nav class="md:ml-auto md:mr-auto flex flex-wrap items-center text-base justify-center">
+            <a [routerLink]="['/features']" routerLinkActive="router-link-active"
+                class="mx-5 hover:text-gray-900 font-semibold tracking-wider">Features</a>
+            <a [routerLink]="['/courses']" routerLinkActive="router-link-active"
+                class="mx-5 hover:text-gray-900 font-semibold tracking-wider">Courses</a>
+            <a [routerLink]="['/mentors']" routerLinkActive="router-link-active"
+                class="mx-5 hover:text-gray-900 font-semibold tracking-wider">Mentors</a>
+            <a [routerLink]="['/learnings']" routerLinkActive="router-link-active"
+                class="mx-5 hover:text-gray-900 font-semibold tracking-wider">Learnings</a>
+        </nav>
+        <button routerLink='/signup'
+            class="inline-flex items-center tracking-wider text-black px-3 focus:outline-none font-semibold mx-2 md:mt-0">Sign
+            up
+        </button>
+        <button [routerLink]="['/login']" routerLinkActive="router-link-active"
+            class="inline-flex items-center tracking-wider border-0 py-2 px-5 focus:outline-none font-semibold bg-gray-900 text-white mt-4 mx-2 md:mt-0">Login
+        </button>
+    </div>
+</header>

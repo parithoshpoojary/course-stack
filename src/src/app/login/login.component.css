@@ -1,0 +1,9 @@
+button {
+  margin: auto;
+  display: block;
+}
+::placeholder {
+  color: #d4d4d4;
+  font-weight: 600;
+  letter-spacing: 1.5px;
+}
