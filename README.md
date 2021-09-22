@@ -14,10 +14,21 @@ Make sure you have the [Angular CLI](https://angular.io/cli) installed globally.
 
 After installing the `npm`, run `npm install` on the commnad prompt to resolve all dependencies (might take a minute or so).
 
+### Development server
+
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ### Building the Project
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+
+Run `ng build -o` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+
+### Running unit tests
+
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+
+### Running end-to-end tests
+
+Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
 #### For more information on building and running the application, visit [Angular - Serve](https://angular.io/cli/serve), [Angular - Build](https://angular.io/cli/build).
 
