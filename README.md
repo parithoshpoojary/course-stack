@@ -1,3 +1,5 @@
+[![Build Status](https://api.travis-ci.com/parithoshpoojary/course-stack.svg?branch=master&status=passed)](https://app.travis-ci.com/github/parithoshpoojary/course-stack)
+
 ## Course-Stack
 `CourseStack` is a web application that acts as a single platform for students and professionals to explore and learn courses of their interest. 
 
