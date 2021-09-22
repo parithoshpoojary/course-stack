@@ -4,6 +4,8 @@
 ## Course-Stack
 `CourseStack` is a web application that acts as a single platform for students and professionals to explore and learn courses of their interest. 
 
+#### Click on the link provided to view the web application live [CourseStack](https://parithoshpoojary.github.io/course-stack/course-stack/).
+
 ## Getting Started
 
 * **Clone the repo:** `git clone https://github.com/parithoshpoojary/course-stack.git`
