@@ -1,3 +1,4 @@
+[![CourseStack Frontend](https://img.shields.io/badge/CourseStack-Frontend-orange)](http://https://parithoshpoojary.github.io/course-stack/course-stack)
 [![Build Status](https://api.travis-ci.com/parithoshpoojary/course-stack.svg?branch=master&status=passed)](https://app.travis-ci.com/github/parithoshpoojary/course-stack)
 
 ## Course-Stack
