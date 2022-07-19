@@ -1,5 +1,6 @@
 [![CourseStack Frontend](https://img.shields.io/badge/CourseStack-Frontend-orange)](http://https://parithoshpoojary.github.io/course-stack/course-stack)
 [![Build Status](https://api.travis-ci.com/parithoshpoojary/course-stack.svg?branch=master&status=passed)](https://app.travis-ci.com/github/parithoshpoojary/course-stack)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ef0643ee-261f-4ffa-95aa-d4df4930037d/deploy-status)](https://app.netlify.com/sites/course-stack/deploys)
 
 ## Course-Stack
 `CourseStack` is a web application that acts as a single platform for students and professionals to explore and learn courses of their interest. 
